@@ -1,4 +1,4 @@
-# cowpea-weed-Classification
+# cowpea-weed-classification
 
 ## Purpose of dataset creation
 ‘Cowpea-weed-Classification’ is created to address real-time weed challenges and encourage weed research using computer vision applications.
